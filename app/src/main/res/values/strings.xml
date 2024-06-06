@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Basics Codelab</string>
+    <string name="Trie">enterprise_de_trie </string>
+    <string name="Collection">enterprise_de_collection</string>
+    <string name="decomposition">enterprise_de_decomposition</string>
+
 </resources>
